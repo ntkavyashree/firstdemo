@@ -1,4 +1,4 @@
-name: firstdemo
+name: first
 on: push
 jobs:
   name: helloworld
