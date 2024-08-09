@@ -7,4 +7,4 @@ jobs:
   - name: checkout repository
     uses: actions/checkout@v2
   - name: Run Hello World Script
-    run: echo "Hello, World!"
+    run: echo "Hello, kavya!"
